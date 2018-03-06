@@ -1,0 +1,205 @@
+Initialize engine version: 5.6.3p2 (b3d7a6428558)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 4600 (ID=0x412)
+    Vendor:   Intel
+    VRAM:     1136 MB
+    Driver:   20.19.15.4624
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+- Completed reload, in  0.131 seconds
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 3360x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.451225 ms
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\System.Xml.dll (this message is harmless)
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\System.Configuration.dll (this message is harmless)
+Establishing Connection to localhost - 127.0.0.1:10009
+Establishing Connection to localhost - 127.0.0.1:10010
+Establishing Connection to localhost - 127.0.0.1:10011
+Establishing Connection to localhost - 127.0.0.1:10005
+RATKinectClient Initialized: localhost:10010
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connection established!Connection established!
+
+Connection established!
+Projective Rendering - Using default camera calibration information.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connection established!
+[AVProMovieCapture] Init plugin version: 2.94 with GPU Direct3D 11.0 [level 11.1]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AVProMovieCapture] Codec not found.  Audio will be uncompressed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Inferrad Image state
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AVProMovieCapture] Codec not found.  Audio will be uncompressed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Configuration request sent
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Received message from configuration server. Type: 2 Size 2737 bytes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Platform assembly: C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\RoomAliveKinect_Data\Managed\System.Runtime.Serialization.dll (this message is harmless)
+Received message from configuration server. Type: 1 Size 1736705 bytes
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+start record video
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AVProMovieCapture] Capturing audio from Unity without an AVProUnityAudioCapture assigned so we had to search for one manually (slow)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AVProUnityAudiocapture] SampleRate: 48000hz SpeakerMode: Stereo BestDriverMode: Stereo (DSP using 4 buffers of 1024 bytes using 2 channels)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AVProMovieCapture] Start File Capture: 800x452 @ 30fps [RGBA32] vcodec:'Xvid MPEG-4 Codec' audio device:'Unity' 48000hz 2 channels acodec:'Uncompressed' to file: 'C:\Users\SuperUnityStudio\Downloads\RoomAliveToolkit-master\RoomAliveToolkit-master\RoomAliveToolkitForUnity\RoomAliveUnity\RoomAlive_Kinect\Demo1Scene-2017-12-05-40018s-800x452.avi'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+stop record video
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+[AVProMovieCapture] Stopping capture
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineTrue
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+draw focus lineFalse
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RATKinectClient Closing: localhost
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RATKinectClient localhost: received 3273 depth frames, rendered 1922
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RATKinectClient localhost: received 3196 color frames, rendered 1953
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Client 4 disconnected.
+Client 2 disconnected.
+Client 1 disconnected.
+Client 3 disconnected.
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 148c -> priority: 1 
+  Thread -> id: 2cf0 -> priority: 1 

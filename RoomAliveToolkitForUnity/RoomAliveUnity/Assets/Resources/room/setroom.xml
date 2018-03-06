@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectorCameraEnsemble xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/RoomAliveToolkit">
+  <cameras>
+    <ProjectorCameraEnsemble.Camera>
+      <calibration>
+        <colorCameraMatrix>
+          <ValuesByColumn xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>1087.5499841332908</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+            </d6p1:ArrayOfdouble>
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0</d6p1:double>
+              <d6p1:double>1087.1591382947274</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+            </d6p1:ArrayOfdouble>
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>963.49826279532158</d6p1:double>
+              <d6p1:double>548.77197810586347</d6p1:double>
+              <d6p1:double>1</d6p1:double>
+            </d6p1:ArrayOfdouble>
+          </ValuesByColumn>
+        </colorCameraMatrix>
+        <colorLensDistortion>
+          <ValuesByColumn xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0.011867187985908792</d6p1:double>
+              <d6p1:double>-0.004003535507542625</d6p1:double>
+            </d6p1:ArrayOfdouble>
+          </ValuesByColumn>
+        </colorLensDistortion>
+        <depthCameraMatrix>
+          <ValuesByColumn xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>369.6068661606613</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+            </d6p1:ArrayOfdouble>
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0</d6p1:double>
+              <d6p1:double>369.63295202239584</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+            </d6p1:ArrayOfdouble>
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>259.57963487995744</d6p1:double>
+              <d6p1:double>221.43430559613645</d6p1:double>
+              <d6p1:double>1</d6p1:double>
+            </d6p1:ArrayOfdouble>
+          </ValuesByColumn>
+        </depthCameraMatrix>
+        <depthLensDistortion>
+          <ValuesByColumn xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0.051692916881366978</d6p1:double>
+              <d6p1:double>-0.16530200917953339</d6p1:double>
+            </d6p1:ArrayOfdouble>
+          </ValuesByColumn>
+        </depthLensDistortion>
+        <depthToColorTransform>
+          <ValuesByColumn xmlns:d6p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0.999997079372406</d6p1:double>
+              <d6p1:double>-0.0023165151942521334</d6p1:double>
+              <d6p1:double>-0.0006185350357554853</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+            </d6p1:ArrayOfdouble>
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0.0023161799181252718</d6p1:double>
+              <d6p1:double>0.99999713897705078</d6p1:double>
+              <d6p1:double>-0.000542249355930835</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+            </d6p1:ArrayOfdouble>
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0.0006197867332957685</d6p1:double>
+              <d6p1:double>0.00054081884445622563</d6p1:double>
+              <d6p1:double>0.99999964237213135</d6p1:double>
+              <d6p1:double>0</d6p1:double>
+            </d6p1:ArrayOfdouble>
+            <d6p1:ArrayOfdouble>
+              <d6p1:double>0.051465104205975637</d6p1:double>
+              <d6p1:double>-0.00010650092665644662</d6p1:double>
+              <d6p1:double>-3.2858368504074622E-05</d6p1:double>
+              <d6p1:double>1</d6p1:double>
+            </d6p1:ArrayOfdouble>
+          </ValuesByColumn>
+        </depthToColorTransform>
+      </calibration>
+      <hostNameOrAddress>localhost</hostNameOrAddress>
+      <name>0</name>
+      <pose>
+        <ValuesByColumn xmlns:d5p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <d5p1:ArrayOfdouble>
+            <d5p1:double>1</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+          </d5p1:ArrayOfdouble>
+          <d5p1:ArrayOfdouble>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>1</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+          </d5p1:ArrayOfdouble>
+          <d5p1:ArrayOfdouble>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>1</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+          </d5p1:ArrayOfdouble>
+          <d5p1:ArrayOfdouble>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>0</d5p1:double>
+            <d5p1:double>1</d5p1:double>
+          </d5p1:ArrayOfdouble>
+        </ValuesByColumn>
+      </pose>
+    </ProjectorCameraEnsemble.Camera>
+  </cameras>
+  <name>Untitled</name>
+  <projectors>
+    <ProjectorCameraEnsemble.Projector>
+      <cameraMatrix i:nil="true" />
+      <displayIndex>0</displayIndex>
+      <height>1080</height>
+      <hostNameOrAddress>localhost</hostNameOrAddress>
+      <lensDistortion i:nil="true" />
+      <lockIntrinsics>false</lockIntrinsics>
+      <name>0</name>
+      <pose i:nil="true" />
+      <width>1920</width>
+    </ProjectorCameraEnsemble.Projector>
+  </projectors>
+</ProjectorCameraEnsemble>
